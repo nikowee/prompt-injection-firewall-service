@@ -252,4 +252,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [Meta AI](https://ai.meta.com/) for the Llama-3 foundation architecture.
 * [Georgi Gerganov](https://github.com/ggerganov) for the revolutionary `llama.cpp` inference engine.
 * [HuggingFace](https://huggingface.co/) for the Transformers and PEFT ecosystem libraries.
-* [deepset](https://deepset.ai/) for the curated prompt injection dataset.
+* **Dataset Source:** [deepset/prompt-injections on Hugging Face](https://huggingface.co/datasets/deepset/prompt-injections)
+* **Dataset Creator:** [deepset AI](https://deepset.ai/)
