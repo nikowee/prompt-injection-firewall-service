@@ -1,4 +1,4 @@
-# Local LLM Prompt Injection Security Firewall Gateway
+# LoRA-Injection-Detector: Fine-Tuning Llama-3 for Adversarial Text Classification with CPU Quantization
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-009688.svg)](https://fastapi.tiangolo.com/)
